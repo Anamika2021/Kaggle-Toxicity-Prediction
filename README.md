@@ -24,3 +24,27 @@
 3. Cross val score was calculated
 4. F1_macro score was obtained both on the training and testing data
 5. For Feature Selection, model’s inbuilt feature importances, recursive feature elimination and ANOVA were used.
+
+
+
+README file
+
+Requirements for running the code –
+System requirements: Windows10
+                     Kaggle or Google Collaboratory 
+                     RAM: 8GB 
+                  
+Libraries –
+1) Numpy - 1.19.5
+2) Pandas - 1.2.1
+3) ScikitLearn - 0.24.1
+
+In this we have run code on KAGGLE, to which you require only Kaggle account approved by proffesor. However, in order to run the code on other platforms like Jupyter Notebook and others you need to : 
+To run the code, open ‘ML_project’ in Jupyter Notebook
+To open Jupyter Notebook on your system, please follow these steps –
+1) Open Command Prompt/Terminal on your system
+2) Type ‘jupyter notebook’
+3) Press Enter
+4) Jupyter notebook will open in your browser
+5) Upload the file – ‘ML_project’
+6) Access the notebook and it opens in a new tab
